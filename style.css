@@ -1,0 +1,49 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.travel_mainDiv{
+    border: 1px solid crimson;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_mainDiv img{
+ width: 100%;   
+}
+
+#down_arrow{
+    margin-left: 980px;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+
+#marquee{
+    background-color: aquamarine;
+}
+
+#school{
+    width: 100%
+        
+}
+#website{
+    color: crimson;
+    margin-left: 45%;
+}
